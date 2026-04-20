@@ -1,6 +1,6 @@
 <script setup>
 import Navbar      from './components/layout/Navbar.vue'
-import Footer      from './components/layout/Footer.vue'
+import PageFooter  from './components/layout/PageFooter.vue'
 import Hero        from './components/sections/Hero.vue'
 import Features    from './components/sections/Features.vue'
 import HowItWorks  from './components/sections/HowItWorks.vue'
@@ -18,7 +18,7 @@ import LoginDrawer from './components/common/LoginDrawer.vue'
       <HowItWorks />
       <PromoBanner />
     </main>
-    <Footer />
+    <PageFooter />
   </div>
 </template>
 
