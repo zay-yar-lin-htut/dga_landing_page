@@ -1,0 +1,67 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    @apply scroll-smooth;
+    font-size: 16px;
+  }
+  body {
+    @apply bg-neo-teal text-white font-sans;
+    line-height: 1.65;
+  }
+}
+
+@layer components {
+  .neon-text-green {
+    color: #00D96F;
+    text-shadow:
+      0 0 6px rgba(0, 217, 111, 0.55),
+      0 0 14px rgba(0, 217, 111, 0.2);
+  }
+
+  .neon-text-orange {
+    color: #FF7A1F;
+    text-shadow:
+      0 0 10px rgba(255, 122, 31, 0.9),
+      0 0 25px rgba(255, 122, 31, 0.5);
+  }
+
+  .mascot-glow {
+    filter:
+      drop-shadow(0 0 20px rgba(255, 122, 31, 0.55))
+      drop-shadow(0 0 50px rgba(0, 217, 111, 0.25));
+    animation: float 3.5s ease-in-out infinite;
+  }
+
+  .sparkle {
+    @apply rounded-full bg-white absolute pointer-events-none;
+    animation: sparkle-anim var(--dur, 3s) ease-in-out infinite;
+    animation-delay: var(--delay, 0s);
+  }
+
+  .section-title {
+    @apply text-3xl md:text-4xl font-heading font-bold text-center text-white mb-14;
+  }
+
+  /* Primary button subtle pulse */
+  .btn-pulse {
+    animation: btn-pulse 2.5s ease-in-out infinite;
+  }
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50%       { transform: translateY(-14px); }
+}
+
+@keyframes sparkle-anim {
+  0%, 100% { opacity: 0; transform: scale(0) rotate(0deg); }
+  40%, 60% { opacity: 0.9; transform: scale(1) rotate(180deg); }
+}
+
+@keyframes btn-pulse {
+  0%, 100% { box-shadow: 0 0 20px rgba(255, 122, 31, 0.6); }
+  50%       { box-shadow: 0 0 36px rgba(255, 122, 31, 0.95), 0 0 60px rgba(255, 122, 31, 0.35); }
+}

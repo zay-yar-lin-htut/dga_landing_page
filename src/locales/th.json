@@ -1,0 +1,148 @@
+{
+  "nav": {
+    "login": "เข้าสู่ระบบ"
+  },
+  "hero": {
+    "headline_prefix": "ดีเด่น",
+    "headline_highlight": "Ask AI",
+    "subheadline": "เพื่อน AI ในกระเป๋าเงินดิจิทัล Digital Wallet",
+    "body": "ในประเทศไทยที่ทุกอย่างเร็วและสะดวก กระเป๋าเงินดิจิทัล Digital Wallet เปิดตัว Ask AI – AI สมาร์ทตัวแรกที่เข้าใจภาษาไทยและวัฒนธรรมไทย 100% ไม่ว่าจะอยู่กรุงเทพฯ ภูเก็ต หรือเชียงใหม่ — ถามอะไรก็ตอบได้ทันใจ",
+    "cta_primary": "เริ่มคุยกับ Ask AI ตอนนี้",
+    "cta_secondary": "ดาวน์โหลด Digital Wallet App"
+  },
+  "features": {
+    "title": "สิ่งที่คุณจะได้รับจาก Ask AI + Digital Wallet",
+    "card1_title": "KYC ง่าย ๆ รับสิทธิทันที",
+    "card1_items": [
+      "ทำ KYC ด้วยบัตรประชาชนไทย หรือพาสปอร์ต (สำหรับชาวต่างชาติ)",
+      "ใช้เวลาไม่ถึง 5 นาทีในแอป Digital Wallet",
+      "ลูกค้าใหม่ที่ทำ KYC สำเร็จ รับสิทธิ 10,000 บาท ใน Digital Wallet"
+    ],
+    "card2_title": "AI ที่เข้าใจไทยลึก ๆ",
+    "card2_items": [
+      "ถามเป็นภาษาไทยธรรมชาติ เช่น \"ยอดเงินฉันเหลือเท่าไหร่?\" / \"ช่วยโอนเงินให้แม่หน่อย\"",
+      "AI ตอบด้วยน้ำเสียงเป็นมิตร เหมือนเพื่อนไทย",
+      "รองรับ: PromptPay · บิลค่าน้ำ-ค่าไฟ · เติมเงินมือถือ · โอนเงินข้ามประเทศ"
+    ],
+    "card3_title": "ปลอดภัย + วัฒนธรรมไทย",
+    "card3_items": [
+      "ได้รับการรับรองจาก DCA และ Digital Wallet",
+      "AI ออกแบบให้เคารพ \"วัฒนธรรมไทย\" — สุภาพ อ่อนโยน \"ไม่เป็นไร\"",
+      "ประเทศไทยเป็นประเทศแรกในอาเซียนที่นำ AI มาใช้ใน e-wallet"
+    ],
+    "info_title": "ทำไมคนไทยถึงรัก Digital Wallet?",
+    "info_items": [
+      "ไทยติด Top 5 ประเทศที่ใช้ QR Code มากที่สุดในโลก",
+      "7-Eleven ทุกสาขาเติมเงิน Digital Wallet ได้ด้วยเงินสด",
+      "ส่งเงินกลับบ้านผ่าน Digital Wallet มากกว่า 10 ล้านครั้ง/เดือน",
+      "วัฒนธรรม \"สบายๆ\" (sabai sabai) เข้ากับ AI แบบ Ask AI ได้อย่างลงตัว"
+    ]
+  },
+  "how": {
+    "title": "ทำยังไงให้ Ask AI เป็นเพื่อนคุณ",
+    "step1_title": "ดาวน์โหลด Digital Wallet App",
+    "step1_detail": "App Store / Play Store · รหัสประเทศ: +66",
+    "step2_title": "ทำ KYC ง่าย ๆ",
+    "step2_detail": "อัพโหลดบัตรประชาชน หรือพาสปอร์ต · ยืนยันด้วย OTP (+66)",
+    "step3_title": "เปิด Ask AI",
+    "step3_detail": "กดไอคอนหุ่นยนต์สีส้ม · พิมพ์หรือพูดได้เลย",
+    "step4_title": "สนุกกับสิทธิพิเศษ",
+    "step4_detail": "รับ 10,000 บาท · ใช้ได้ทุกที่ที่รับ PromptPay / Digital Wallet",
+    "culture_note": "ประเทศไทย = \"Land of Smiles\" — หุ่นยนต์ Ask AI จึงถูกออกแบบให้ \"ยิ้ม\" และ \"ขยิบตา\" สะท้อนการต้อนรับแบบไทยแท้"
+  },
+  "promo": {
+    "dates": "1 มี.ค. - 15 เม.ย. 2567",
+    "headline": "รับสิทธิ 10,000 บาท ผ่าน Digital Wallet",
+    "subtext": "สำหรับลูกค้าใหม่ที่ทำ KYC สำเร็จ",
+    "disclaimer": "*เงื่อนไขเป็นไปตามที่บริษัทกำหนด",
+    "cta": "ทำ KYC เดี๋ยวนี้"
+  },
+  "sidebar": {
+    "switch": {
+      "show_chat": "แสดงแชท",
+      "show_login": "แสดงล็อกอิน"
+    },
+    "chat": {
+      "greeting": "สวัสดีครับ",
+      "title_line1": "ผม DGA AI ผู้ช่วยอัจฉริยะ",
+      "title_line2": "เพื่อประชาชน",
+      "description_line1": "สามารถถามเรื่องที่คุณอยากรู้ได้เลย!",
+      "description_line2": "ผมจะช่วยสรุปแบบกระชับ เข้าใจง่าย เชื่อถือได้",
+      "description_line3": "เวอร์ชันทดสอบ (Beta) - เรียนรู้และพัฒนาเพื่อคุณ",
+      "quick_actions": [
+        "สิทธิและสวัสดิการ",
+        "จองคิวทำเอกสารที่อำเภอ/เขต",
+        "สอบถามเรื่องที่ดิน",
+        "นโยบายรัฐบาล"
+      ],
+      "input_placeholder": "ถามเรื่องที่คุณอยากรู้",
+      "footer_note": "ถามเรื่องที่คุณอยากรู้"
+    },
+    "login": {
+      "title": "Government AI Smart Search",
+      "subtitle": "ระบบค้นหาคำตอบปัญญาประดิษฐ์ภาครัฐ",
+      "badge": "Product Admin Portal",
+      "company_code": "COMPANY CODE (รหัสหน่วยงาน)",
+      "company_code_ph": "DGA-001",
+      "username": "USERNAME",
+      "username_ph": "superroct",
+      "password": "PASSWORD",
+      "password_ph": "••••••••",
+      "forgot_password": "ลืมรหัสผ่าน?",
+      "submit": "เข้าสู่ระบบ Product Admin",
+      "id_boxes": {
+        "thaiid_title": "ThaiID",
+        "thaiid_subtitle": "ยืนยันตัวตน",
+        "digitalid_title": "DigitalID",
+        "digitalid_subtitle": "ระบบหลักที่ใช้"
+      },
+      "table": {
+        "username": "Username",
+        "password": "Password",
+        "role": "Role",
+        "result": "ผลลัพธ์"
+      },
+      "roles": {
+        "super_admin": "super admin",
+        "admin": "admin"
+      },
+      "results": {
+        "dashboard": "Dashboard",
+        "webportal": "Webportal"
+      }
+    }
+  },
+  "footer": {
+    "contact_title": "ติดต่อเรา",
+    "services_title": "บริการ",
+    "contact_labels": {
+      "organization": "องค์กร",
+      "address": "ที่อยู่",
+      "email_value": "อีเมล",
+      "general_inquiries": "สอบถามทั่วไป",
+      "contact_center": "DGA Contact Center",
+      "hotline_value": "สายด่วน"
+    },
+    "contact_values": {
+      "organization": "สำนักงานพัฒนารัฐบาลดิจิทัล (องค์การมหาชน) (สพร.)",
+      "address": "อาคารสถาบันเพื่อการยุติธรรมแห่งประเทศไทย (TIJ) ชั้น 1 เลขที่ 999 ถนนแจ้งวัฒนะ แขวงทุ่งสองห้อง เขตหลักสี่ กรุงเทพฯ 10210",
+      "email_value": "contact@dga.or.th",
+      "general_inquiries": "(+66) 02 612 6000 / saraban@dga.or.th",
+      "contact_center": "(+66) 02 612 6060",
+      "hotline_value": "026126060"
+    },
+    "services": {
+      "consulting": "Consulting Service",
+      "gdx": "Government Data Exchange : GDX",
+      "citizen_portal": "ระบบพอร์ทัลกลางเพื่อประชาชน : Citizen Portal",
+      "bizportal": "BizPortal",
+      "tang_rath": "แอปพลิเคชันทางรัฐ",
+      "dee_den": "ดี-เด่น (Ask AI)",
+      "tuen_dee": "บริการ \"เตือนดี\" (Notification Platform)",
+      "document_wallet": "บริการ \"กระเป๋าเอกสาร\" (Document Wallet)",
+      "jeng_rath": "แจ้งรัฐ (Citizen Complaint & Service Request System)"
+    },
+    "copyright": "© 2026 Digital Wallet Thailand | สงวนลิขสิทธิ์ทุกประการ",
+    "tagline": "Made with ❤️ for the Land of Smiles"
+  }
+}

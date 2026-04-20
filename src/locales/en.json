@@ -1,0 +1,148 @@
+{
+  "nav": {
+    "login": "Login"
+  },
+  "hero": {
+    "headline_prefix": "Excellent",
+    "headline_highlight": "Ask AI",
+    "subheadline": "Your Friendly AI in Digital Wallet",
+    "body": "In Thailand where everything is fast and convenient, Digital Wallet launches Ask AI – the first smart AI that understands Thai language and culture 100%. Whether in Bangkok, Phuket, or Chiang Mai — get answers instantly.",
+    "cta_primary": "Start chatting with Ask AI",
+    "cta_secondary": "Download Digital Wallet App"
+  },
+  "features": {
+    "title": "What you get from Ask AI + Digital Wallet",
+    "card1_title": "Easy KYC · Instant Benefits",
+    "card1_items": [
+      "KYC with Thai ID card or Passport (for foreigners)",
+      "Takes less than 5 minutes in Digital Wallet App",
+      "New customers who complete KYC get 10,000 THB in Digital Wallet"
+    ],
+    "card2_title": "AI That Deeply Understands Thai",
+    "card2_items": [
+      "Ask in natural Thai e.g. \"How much is my balance?\" / \"Help transfer money to mom\"",
+      "AI responds in a friendly tone, like a Thai friend",
+      "Supports: PromptPay · Utility bills · Top-up · International transfers"
+    ],
+    "card3_title": "Secure + Thai Culture",
+    "card3_items": [
+      "Certified by DCA and Digital Wallet",
+      "AI designed to respect Thai culture — polite, gentle, \"mai pen rai\"",
+      "Thailand is the first in ASEAN to bring AI to e-wallet"
+    ],
+    "info_title": "Why do Thais love Digital Wallet?",
+    "info_items": [
+      "Thailand ranks Top 5 globally in QR Code usage",
+      "Every 7-Eleven can top up Digital Wallet with cash",
+      "Digital Wallet processes 10M+ remittances/month",
+      "\"Sabai sabai\" culture fits perfectly with AI like Ask AI"
+    ]
+  },
+  "how": {
+    "title": "How to make Ask AI your friend",
+    "step1_title": "Download Digital Wallet App",
+    "step1_detail": "App Store / Play Store · Country code: +66",
+    "step2_title": "Complete KYC",
+    "step2_detail": "Upload ID card or Passport · Verify with OTP (+66)",
+    "step3_title": "Open Ask AI",
+    "step3_detail": "Tap the orange robot icon · Type or speak",
+    "step4_title": "Enjoy Your Benefits",
+    "step4_detail": "Receive 10,000 THB · Use anywhere PromptPay / Digital Wallet is accepted",
+    "culture_note": "Thailand = Land of Smiles — Ask AI robot is designed to smile and wink reflecting Thai hospitality"
+  },
+  "promo": {
+    "dates": "1 Mar – 15 Apr 2024",
+    "headline": "Get 10,000 THB in Digital Wallet",
+    "subtext": "For new customers who complete KYC successfully",
+    "disclaimer": "*Terms and conditions apply",
+    "cta": "Complete KYC Now"
+  },
+  "sidebar": {
+    "switch": {
+      "show_chat": "show chat",
+      "show_login": "show login"
+    },
+    "chat": {
+      "greeting": "Hello",
+      "title_line1": "I am DGA AI, your smart assistant",
+      "title_line2": "for citizens",
+      "description_line1": "Ask me anything you want to know!",
+      "description_line2": "I summarize clearly, easy to understand, and reliable",
+      "description_line3": "Beta version - learning and improving for you",
+      "quick_actions": [
+        "Welfare and benefits",
+        "Book district office documents",
+        "Land inquiry",
+        "Government policy"
+      ],
+      "input_placeholder": "Ask what you want to know",
+      "footer_note": "Type your question"
+    },
+    "login": {
+      "title": "Government AI Smart Search",
+      "subtitle": "Government AI-powered answer system",
+      "badge": "Product Admin Portal",
+      "company_code": "COMPANY CODE (Agency code)",
+      "company_code_ph": "DGA-001",
+      "username": "USERNAME",
+      "username_ph": "superroct",
+      "password": "PASSWORD",
+      "password_ph": "••••••••",
+      "forgot_password": "Forgot password?",
+      "submit": "Sign in Product Admin",
+      "id_boxes": {
+        "thaiid_title": "ThaiID",
+        "thaiid_subtitle": "Identity verification",
+        "digitalid_title": "DigitalID",
+        "digitalid_subtitle": "Primary system"
+      },
+      "table": {
+        "username": "Username",
+        "password": "Password",
+        "role": "Role",
+        "result": "Result"
+      },
+      "roles": {
+        "super_admin": "super admin",
+        "admin": "admin"
+      },
+      "results": {
+        "dashboard": "Dashboard",
+        "webportal": "Webportal"
+      }
+    }
+  },
+  "footer": {
+    "contact_title": "Contact Us",
+    "services_title": "Service",
+    "contact_labels": {
+      "organization": "Organization",
+      "address": "Address",
+      "email_value": "Email",
+      "general_inquiries": "General Inquiries",
+      "contact_center": "DGA Contact Center",
+      "hotline_value": "Hotline"
+    },
+    "contact_values": {
+      "organization": "Digital Government Development Agency (Public Organization) (DGA)",
+      "address": "Thailand Institute of Justice (TIJ) Building, 1st Floor, No. 999 Chaeng Watthana Road, Thung Song Hong Subdistrict, Laksi District, Bangkok 10210",
+      "email_value": "contact@dga.or.th",
+      "general_inquiries": "(+66) 02 612 6000 / saraban@dga.or.th",
+      "contact_center": "(+66) 02 612 6060",
+      "hotline_value": "026126060"
+    },
+    "services": {
+      "consulting": "Consulting Service",
+      "gdx": "Government Data Exchange : GDX",
+      "citizen_portal": "Central Portal for Citizens : Citizen Portal",
+      "bizportal": "BizPortal",
+      "tang_rath": "Tang Rath Application",
+      "dee_den": "Dee-Den (Ask AI)",
+      "tuen_dee": "\"Tuen Dee\" Service (Notification Platform)",
+      "document_wallet": "\"Document Wallet\" Service",
+      "jeng_rath": "Citizen Complaint & Service Request System (Jeng Rath)"
+    },
+    "copyright": "© 2026 Digital Wallet Thailand | All rights reserved",
+    "tagline": "Made with ❤️ for the Land of Smiles"
+  }
+}
